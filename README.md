@@ -4,3 +4,4 @@ Lista de la compra:
 - Patatas
 - Queso
 - Lechuga
+- Batido
